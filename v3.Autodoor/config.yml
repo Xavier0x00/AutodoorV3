@@ -1,0 +1,12 @@
+//Most of these settings don't need to changed as they are handled by the update section on Autodoor
+starth: 9 
+endh: 23 
+startmin: 0 
+endmin: 0 
+lstarth: 10 
+lstartmin: 10 
+lendh: 10 
+lendmin: 4 
+LEDPin: 26 //GPIO pin for the LED
+ServoPin: 2 //GPIO pin for the servo
+dbFile: db.Autodoor.sqlite //Location of the db file that contains logs and student ID numbers

@@ -1,0 +1,14 @@
+{
+    "starth":9,
+    "endh":23,
+    "startmin":0,
+    "endmin":0,
+    "lstarth":10,
+    "lstartmin":10,
+    "lendh":10,
+    "lendmin":45,
+    "LEDPin": 26,
+    "ServoPin": 2,
+    "logFile": "/home/pi/AutoDoor2.log",
+    "list":"0610031007"
+}
